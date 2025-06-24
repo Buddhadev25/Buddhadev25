@@ -1,13 +1,18 @@
 # 👋 Hi there, I'm Buddhadev Pusti
 
+![Profile Views](https://komarev.com/ghpvc/?username=Buddhadev25\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Buddhadev25\&show_icons=true\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhadev25\&layout=compact\&theme=radical)
+
 ## 🚀 DevOps Engineer | Automating CI/CD | Cloud | Security | Monitoring
 
 A results-driven **DevOps Engineer** with a strong focus on automation, cloud efficiency, and infrastructure scalability.
-* 🔧 I specialize in optimizing build pipelines, securing infrastructure, and driving cloud-native solutions.
-* 📦 Enthusiastic about Infrastructure as Code (IaC), DevSecOps practices, and resilient Kubernetes architectures.
-* 🌍 I enjoy building tools that solve real-world engineering problems and improve release cycles.
-* 📚 Constant learner exploring cutting-edge DevOps strategies and technologies.
-* 📫 Reach me at: [buddhadev.amrita@gmail.com](mailto:buddhadev.amrita@gmail.com)
+🔧 I specialize in optimizing build pipelines, securing infrastructure, and driving cloud-native solutions.
+📦 Enthusiastic about Infrastructure as Code (IaC), DevSecOps practices, and resilient Kubernetes architectures.
+🌍 I enjoy building tools that solve real-world engineering problems and improve release cycles.
+📚 Constant learner exploring cutting-edge DevOps strategies and technologies.
+📫 Reach me at: [buddhadev.amrita@gmail.com](mailto:buddhadev.amrita@gmail.com)
 
 ---
 
@@ -15,11 +20,12 @@ A results-driven **DevOps Engineer** with a strong focus on automation, cloud ef
 
 **Languages**: Bash, Python, YAML, Groovy
 **CI/CD Tools**: Jenkins, GitLab CI, GitHub Actions
-**Containers**: Docker, Kubernetes
-**Cloud Platforms**: AWS (EC2, S3, IAM, Lambda), GCP
+**Containers**: Docker, Kubernetes, Helm
+**Cloud Platforms**: AWS (EC2, S3, IAM, Lambda), Azure, GCP
 **IaC & Automation**: Terraform, Ansible
 **Security Tools**: SonarQube, Prisma, Fortify, Snyk
 **Monitoring**: Prometheus, Grafana, ELK Stack
+**Other Tools**: Nexus, Artifactory, Git, Postman, Linux
 
 ---
 
@@ -30,6 +36,20 @@ A results-driven **DevOps Engineer** with a strong focus on automation, cloud ef
 > Full CI/CD pipeline integrating Jenkins, GitLab, Nexus, and SonarQube with Docker support. Implements code quality checks, build, and deploy automation.
 
 **Stack**: GitLab, Jenkins, Docker, SonarQube, Nexus, Node.js, React
+
+Future Projects:
+
+* **Deployify** – Pipeline-as-a-Service for small apps
+* **UptimeDeck** – Lightweight uptime monitor with Slack alerts
+* **EnvVault** – Secure .env file sharing with encryption
+
+---
+
+## 📝 Latest Articles
+
+* [Configuring SSH connectivity between Jenkins master and slave nodes](https://medium.com/@buddhadev.amrita/configuring-ssh-connectivity-between-jenkins-master-and-slave-nodes-800c55f7c39c)
+
+More articles coming soon.
 
 ---
 
