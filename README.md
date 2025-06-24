@@ -3,11 +3,11 @@
 ## 🚀 DevOps Engineer | Automating CI/CD | Cloud | Security | Monitoring
 
 A results-driven **DevOps Engineer** with a strong focus on automation, cloud efficiency, and infrastructure scalability.
-🔧 I specialize in optimizing build pipelines, securing infrastructure, and driving cloud-native solutions.
-📦 Enthusiastic about Infrastructure as Code (IaC), DevSecOps practices, and resilient Kubernetes architectures.
-🌍 I enjoy building tools that solve real-world engineering problems and improve release cycles.
-📚 Constant learner exploring cutting-edge DevOps strategies and technologies.
-📫 Reach me at: [buddhadev.amrita@gmail.com](mailto:buddhadev.amrita@gmail.com)
+* 🔧 I specialize in optimizing build pipelines, securing infrastructure, and driving cloud-native solutions.
+* 📦 Enthusiastic about Infrastructure as Code (IaC), DevSecOps practices, and resilient Kubernetes architectures.
+* 🌍 I enjoy building tools that solve real-world engineering problems and improve release cycles.
+* 📚 Constant learner exploring cutting-edge DevOps strategies and technologies.
+* 📫 Reach me at: [buddhadev.amrita@gmail.com](mailto:buddhadev.amrita@gmail.com)
 
 ---
 
