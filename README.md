@@ -24,30 +24,6 @@ A results-driven **DevOps Engineer** with a strong focus on automation, cloud ef
 
 ---
 
-## 📂 Featured Projects
-
-### 🔧 [CI/CD Pipeline for Node.js App](https://github.com/Buddhadev25/simple-node-js-react-npm-app)
-
-> Full CI/CD pipeline integrating Jenkins, GitLab, Nexus, and SonarQube with Docker support. Implements code quality checks, build, and deploy automation.
-
-**Stack**: GitLab, Jenkins, Docker, SonarQube, Nexus, Node.js, React
-
-Future Projects:
-
-* **Deployify** – Pipeline-as-a-Service for small apps
-* **UptimeDeck** – Lightweight uptime monitor with Slack alerts
-* **EnvVault** – Secure .env file sharing with encryption
-
----
-
-## 📝 Latest Articles
-
-* [Configuring SSH connectivity between Jenkins master and slave nodes](https://medium.com/@buddhadev.amrita/configuring-ssh-connectivity-between-jenkins-master-and-slave-nodes-800c55f7c39c)
-
-More articles coming soon.
-
----
-
 ## 🏅 Achievements & Impact
 
 * ✅ Reduced Jenkins pipeline build time by **60%**, accelerating release velocity
