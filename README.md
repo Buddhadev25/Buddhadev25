@@ -1,10 +1,5 @@
 # 👋 Hi there, I'm Buddhadev Pusti
 
-![Profile Views](https://komarev.com/ghpvc/?username=Buddhadev25\&label=Profile%20Views\&color=0e75b6\&style=flat)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Buddhadev25\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhadev25\&layout=compact\&theme=radical)
-
 ## 🚀 DevOps Engineer | Automating CI/CD | Cloud | Security | Monitoring
 
 A results-driven **DevOps Engineer** with a strong focus on automation, cloud efficiency, and infrastructure scalability.
@@ -84,6 +79,12 @@ More articles coming soon.
 * 📧 [buddhadev.amrita@gmail.com](mailto:buddhadev.amrita@gmail.com)
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Buddhadev25\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Buddhadev25\&show_icons=true\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhadev25\&layout=compact\&theme=radical)
+
 
 *Always open to freelance DevOps work, collaborations, or mentorship.*
 
